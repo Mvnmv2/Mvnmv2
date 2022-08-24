@@ -7,6 +7,8 @@
 </h2>
 
 ### :man_technologist: About Me :
+I am a Frontend Developer
 
+---
 
 ### :hammer_and_wrench: Languages and Tools : 
